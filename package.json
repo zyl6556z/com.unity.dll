@@ -1,0 +1,9 @@
+{
+  "description": "Dll Library",
+  "displayName": "Dll Library",
+  "name": "com.unity.dll",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "dependencies": {
+  }
+}
